@@ -146,3 +146,4 @@ Web ürünlerini baştan sona, tek başıma kuruyorum. Backend, frontend, sunucu
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=100&section=footer"/>
+ 
